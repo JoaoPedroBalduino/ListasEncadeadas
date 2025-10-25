@@ -3,6 +3,9 @@
 ## 📋 Descrição
 Implementação completa de três tipos de listas encadeadas em Java, desenvolvido como trabalho acadêmico para a disciplina de Estrutura de Dados.
 
+## Video Youtube 
+link: https://youtu.be/jWCdtyDjuyA
+
 ## 🎯 Estruturas Implementadas
 
 ### 1. Lista Encadeada Simples
