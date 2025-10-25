@@ -1,0 +1,5 @@
+cd ~/EstruturasDeDados (Ir para pasta)
+javac GUI/ListaGUI.java (COMPILAR)
+java GUI.ListaGUI (RUN)
+
+java ListaSimples.TestListaSimples (RUN)
